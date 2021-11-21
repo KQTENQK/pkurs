@@ -1,0 +1,7 @@
+C:\Users\Pavel\source\repos\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe.config
+C:\Users\Pavel\source\repos\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe
+C:\Users\Pavel\source\repos\Kursovaya\Kursovaya\bin\Debug\Kursovaya.pdb
+C:\Users\Pavel\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.AssemblyReference.cache
+C:\Users\Pavel\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.exe
+C:\Users\Pavel\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.pdb
